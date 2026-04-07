@@ -1,0 +1,42 @@
+[
+    {
+    "username" : "surendra36mulumudi@gmail.com",
+    "password" : "Test@123",
+    "productName" : "ADIDAS ORIGINAL",
+    "ThankyouMessage" : " Thankyou for the order. ",
+    "cardCVV" : "123",
+    "cardHolderName" : "Surendra Mulumudi",
+    "countryCode" : "ind",
+    "countryName" : "India"
+
+   
+
+    },
+    {
+    "username" : "mulumudisurendra@gmail.com",
+    "password" : "Test@#123",
+    "productName" : "ZARA COAT 3",
+    "ThankyouMessage" : " Thankyou for the order. ",
+    "cardCVV" : "123",
+    "cardHolderName" : "Surendra Mulumudi",
+    "countryCode" : "ind",
+    "countryName" : "India"
+
+    
+
+    },
+    {
+    "username" : "surendramulumudi@gmail.com",
+    "password" : "Test@#123",
+    "productName" : "iphone 13 pro",
+    "ThankyouMessage" : " Thankyou for the order. ",
+    "cardCVV" : "123",
+    "cardHolderName" : "Surendra Mulumudi",
+    "countryCode" : "ind",
+    "countryName" : "India"
+
+    
+
+    }
+
+]
