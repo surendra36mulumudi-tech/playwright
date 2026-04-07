@@ -15,7 +15,7 @@ import { worker } from 'cluster';
  */
 const config = defineConfig({
   testDir: './tests',
-  retries:1, // your failed test will be retried one more time. Default is 0
+  retries:2, // your failed test will be retried one more time. Default is 0
   workers: 1, // run your tests in one worker to avoid parallel execution. Default is number of cores on your machine
   timeout: 100 * 1000,
   expect: {

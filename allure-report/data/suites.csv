@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","49326","@Web Client App login test for ADIDAS ORIGINAL","","2026-04-07","passed","2026-04-07","","ClientApp.spec.js","",""
+"","22344","@Web Client App login test with fixture test data","","2026-04-07","passed","2026-04-07","","ClientApp.spec.js","",""
+"","20402","@Web Client App login test for iphone 13 pro","","2026-04-07","passed","2026-04-07","","ClientApp.spec.js","",""
+"","22444","@Web Client App login test for ZARA COAT 3","","2026-04-07","passed","2026-04-07","","ClientApp.spec.js","",""

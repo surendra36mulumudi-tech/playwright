@@ -1,6 +1,6 @@
 const {test,expect} = require('@playwright/test');
  
-test('Browser Context palywright test', async({browser})=>
+test('@API Browser Context palywright test', async({browser})=>
 {
     //playwright code
     //step1: launch browser

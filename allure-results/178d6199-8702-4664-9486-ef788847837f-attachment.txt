@@ -1,0 +1,8 @@
+[ 'ADIDAS ORIGINAL', 'ZARA COAT 3', 'iphone 13 pro' ]
+count: 3
+orderId:  | 69d4fb31f86ba51a654f3227 | 
+Retrieved Order ID: 69d4fb31f86ba51a654f3227
+ surendramulumudi@gmail.com 
+ Country - India 
+ surendramulumudi@gmail.com 
+ Country - India 

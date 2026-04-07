@@ -13,7 +13,7 @@
 
 for(const data of testData)
 { 
-test(`@API Client App login test for  ${data.productName}`, async({page})=>{
+test(`@Web Client App login test for  ${data.productName}`, async({page})=>{
   
   //js file - Login page js, dashboard page js
   // Data file - testData.json and data driven framework - read data from json file and use that data in test case
